@@ -41,9 +41,13 @@ Sales: Comprehensive record of all transactions.
 The dataset is publicly available on https://www.kaggle.com/
 
 Technologies Used:
+
 Programming Language: SQL
+
 Storage: Internal storage
+
 Data Warehouse: Snowflake
+
 Visualisation: Tableau
 
 Conclusion:
